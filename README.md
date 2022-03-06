@@ -1,1 +1,1 @@
-# EWMA-p-control-chart-with-measurement-error-correction-R-code
+# SPC-measurement-error-correction-R-code
